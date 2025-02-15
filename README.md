@@ -38,4 +38,5 @@ For users with hardware limitations or for those creating demo videos, an API ve
 
 ## DEMO
 
-<!-- Uploading "2025-02-15 17-37-25.mp4"... -->
+[<!-- Uploading "2025-02-15 17-37-25.mp4"... -->
+](https://github.com/user-attachments/assets/3236c42f-c655-41e9-81d3-3878888e24a8)
