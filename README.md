@@ -35,3 +35,7 @@ For users with hardware limitations or for those creating demo videos, an API ve
 - **Chainlit Integration:**  
   - A user-friendly, real-time chat interface powered by [Chainlit](https://docs.chainlit.io/).
   - Displays responses token by token for an interactive experience.
+
+## DEMO
+
+<!-- Uploading "2025-02-15 17-37-25.mp4"... -->
